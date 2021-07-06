@@ -11,6 +11,6 @@
 #### matplotlib
 # Author
  Özge Karalı
- #### [Medium](https://karalozge.medium.com)
+ #### [Medium](https://ozgekaral.medium.com/)
  #### [github](https://github.com/ozgekaral)
  
