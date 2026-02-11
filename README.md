@@ -6,13 +6,4 @@
 # Files
 #### Predict test scores of students.csv including data [Kaggle](../input/predict-test-scores-of-students/test_scores.csv)
 #### Predict test scores of students.ipynb Interactive Python Notebook that includes the code itself [Predict test scores of students.ipynb](https://github.com/ozgekaral/predict-test-scores-of-students)
-# Libraries Used
-#### sklearn
-#### pandas
-#### seaborn
-#### matplotlib
-# Author
- Özge Karalı
- #### [Medium](https://ozgekaral.medium.com/)
- #### [github](https://github.com/ozgekaral)
- 
+
